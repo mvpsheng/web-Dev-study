@@ -110,3 +110,6 @@ Our team produces other curricula! Check out:
 - [IoT for Beginners](https://aka.ms/iot-beginners)
 - [Data Science for Beginners](https://aka.ms/datascience-beginners)
 - [AI for Beginners](https://aka.ms/ai-beginners)
+
+task 07 / 24  current place!
+next to learn 08 / 24
