@@ -116,4 +116,7 @@ task 11 / 24  current place!
 fininshed project ：Terrarium.  an element that can be drag and lose, the element will be drag and stop when the mouse pointer up;
     css: seperate the creen into two container, left and right container, which contains seven elements in each. and there is a terraium in the middle with dirt in the bottem of it.
 
+
+task 11 the typing game
+use a input text to get user keyboard event. and set a listener to get starting time, the typing information to judge the user is currently right or wrong or fininshed typing the full quotes. when succeed in typing whole quote, show the congrats message!
 next to learn 12 / 24
