@@ -112,8 +112,8 @@ Our team produces other curricula! Check out:
 - [AI for Beginners](https://aka.ms/ai-beginners)
 
 ## Process
-task 10 / 24  current place!   
+task 11 / 24  current place!   
 fininshed project ：Terrarium.  an element that can be drag and lose, the element will be drag and stop when the mouse pointer up;
     css: seperate the creen into two container, left and right container, which contains seven elements in each. and there is a terraium in the middle with dirt in the bottem of it.
 
-next to learn 11 / 24
+next to learn 12 / 24
